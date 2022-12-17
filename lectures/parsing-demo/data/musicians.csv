@@ -1,0 +1,4 @@
+First Name,Last Name,Instrument
+"{:first_name=>""Boris"", :last_name=>""Knezevic"", :instrument=>""Piano""}"
+"{:first_name=>""James"", :last_name=>""Brown"", :instrument=>""Voice""}"
+"{:first_name=>""Omar"", :last_name=>""Khairat"", :instrument=>""Piano""}"
